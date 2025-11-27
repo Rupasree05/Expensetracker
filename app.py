@@ -9,7 +9,7 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
-st.image("logo.png", width=150)
+st.image("logo", width=150)
 st.markdown("<h1 style='color:#4A90E2;'>Expense Tracker</h1>", unsafe_allow_html=True)
 st.write("Loading...")
 
